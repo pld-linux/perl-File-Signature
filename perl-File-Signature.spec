@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	File
 %define	pnam	Signature
 Summary:	File::Signature - Detect changes to a file's content or attributes
