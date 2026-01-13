@@ -8,7 +8,7 @@ Summary:	File::Signature - Detect changes to a file's content or attributes
 Summary(pl.UTF-8):	File::Signature - wykrywa zmiany zawartości plików albo ich atrybutów
 Name:		perl-File-Signature
 Version:	1.009
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
